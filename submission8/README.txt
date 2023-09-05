@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_h
 https://www.youtube.com/watch?v=2zCfh3o88K8&list=PLaZQkZp6WhWzLZt7k3zTl6ClAdLuyP8v_
 https://www.youtube.com/watch?v=BtmsIy0j_dY&list=PLaZQkZp6WhWwnwq7KIMK_jOKZVpH94dRi
 
+was active in slack:
+https://app.slack.com/client/T05BA5DKHD1/C05AVPGJJ5V
+
 
 Submitter: 
 20101443 Name Fahad Mohammad Rejwanul Islam
