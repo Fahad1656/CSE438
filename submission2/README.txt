@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://www.youtube.com/watch?v=5wn8kfdkmo4
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1y_FX2adWOBD-oJOnbj8eJg4tn6-KW8lED_vYjys9mz8/edit#slide=id.g8794a74c9d_0_2475
+https://docs.google.com/presentation/d/149E8XD3bBs3F3mEkNAB8UT-GSLb8n4l8Hjz1-cTh6OI/edit#slide=id.g8794a74c9d_0_2475
 
 Paper title:
 Agricultural Field Extraction with Deep Learning Algorithm and Satellite Imagery
